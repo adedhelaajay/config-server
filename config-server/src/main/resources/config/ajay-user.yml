@@ -1,0 +1,10 @@
+message: "User local configuration works."
+greeting:
+  morning:
+    greet: Good Morning!
+  afternoon:
+    greet: Good Afternoon!
+  evening:
+    greet: Good Evening!
+  night:
+    greet: Good Night! 
